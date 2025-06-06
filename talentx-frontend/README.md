@@ -1,12 +1,34 @@
-# React + Vite
+📚 TalentX - Sistema de Gestión de Empleados y Nómina
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TalentX es un proyecto académico desarrollado como parte del curso universitario de desarrollo de software. El sistema permite la gestión integral de empleados, departamentos, cargos y generación de informes en PDF, incluyendo informes de nómina basados en horas trabajadas, bonificaciones y deducciones.
 
-Currently, two official plugins are available:
+🎓 Objetivo del Proyecto
+Este proyecto fue creado como trabajo universitario con el propósito de aplicar conceptos clave de desarrollo web, arquitectura en capas, persistencia de datos y generación de reportes automáticos en PDF utilizando tecnologías modernas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tecnologías Utilizadas
+Backend: Spring Boot + JPA + MySQL
 
-## Expanding the ESLint configuration
+PDF Reports: OpenPDF (Lowagie)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Base de Datos: MySQL Workbench
+
+Frontend (JSON Server o React): [Mencionar si se usa]
+
+✨ Funcionalidades
+CRUD de empleados, departamentos y cargos
+
+Registro y cálculo de nómina por empleado
+
+Generación de informes en PDF:
+
+Informe de empleados
+
+Informe de departamentos
+
+Informe de nómina
+
+Cálculo automático del salario con horas extras, nocturnas, bonificaciones y deducciones
+
+🏫 Contexto Académico
+Este proyecto fue desarrollado como entrega final del curso de Aplicaciones Empresariales, en las unidades tecnologicas de santander, con el fin de demostrar competencias en desarrollo backend, frontend y generación de informes.
+
