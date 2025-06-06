@@ -1,9 +1,13 @@
 📚 TalentX - Sistema de Gestión de Empleados y Nómina
 
-TalentX es un proyecto académico desarrollado como parte del curso universitario de desarrollo de software. El sistema permite la gestión integral de empleados, departamentos, cargos y generación de informes en PDF, incluyendo informes de nómina basados en horas trabajadas, bonificaciones y deducciones.
+TalentX es un proyecto académico desarrollado como parte del curso universitario de desarrollo de software.
+El sistema permite la gestión integral de empleados, departamentos, cargos y generación de informes en PDF,
+incluyendo informes de nómina basados en horas trabajadas, bonificaciones y deducciones.
 
 🎓 Objetivo del Proyecto
-Este proyecto fue creado como trabajo universitario con el propósito de aplicar conceptos clave de desarrollo web, arquitectura en capas, persistencia de datos y generación de reportes automáticos en PDF utilizando tecnologías modernas.
+Este proyecto fue creado como trabajo universitario con el propósito de aplicar conceptos clave de 
+desarrollo web, arquitectura en capas, persistencia de datos y generación de reportes automáticos en 
+PDF utilizando tecnologías modernas.
 
 🛠️ Tecnologías Utilizadas
 Backend: Spring Boot + JPA + MySQL
@@ -12,10 +16,10 @@ PDF Reports: OpenPDF (Lowagie)
 
 Base de Datos: MySQL Workbench
 
-Frontend (JSON Server o React): [Mencionar si se usa]
+Frontend: React
 
 ✨ Funcionalidades
-CRUD de empleados, departamentos y cargos
+CRUD de empleados, departamentos,usuarios y cargos
 
 Registro y cálculo de nómina por empleado
 
